@@ -22,3 +22,7 @@ ul{
   color: blue;
   font-style: italic;
 }
+li{
+  font-family: sans-serif;
+  color: #663399;
+}
