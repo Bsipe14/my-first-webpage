@@ -9,7 +9,7 @@
 * _HTML_
 * _CSS_
 
-## This webpage is an attempt at learning coding languanges such as the ones listed above.
+#### This webpage is an attempt at learning coding languanges such as the ones listed above.
 
 ## Setup/Installation Requirements
 
